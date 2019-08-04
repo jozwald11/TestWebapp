@@ -29,6 +29,9 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="settings.json">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="www\index.html">
       <SubType>Code</SubType>
     </Content>

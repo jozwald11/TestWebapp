@@ -1,0 +1,8 @@
+﻿{
+  "error404": "/404.html",
+  "error500": "/500.html",
+  "redirects": 
+  {
+    "/": "/index.html"
+  }
+}
